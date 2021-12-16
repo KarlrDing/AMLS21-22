@@ -1,0 +1,7 @@
+.  /opt/anaconda3/etc/profile.d/conda.sh
+
+(p3-env)
+
+conda activate ~/p3-env
+
+jupyter notebook --no-browser
